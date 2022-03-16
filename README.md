@@ -1,4 +1,3 @@
-# Eva Exhange Trading Platform
 
 # Installation
 
